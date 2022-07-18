@@ -1,0 +1,45 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_libgcc_mutex=0.1=main
+_openmp_mutex=5.1=1_gnu
+blinker=1.5=pypi_0
+brotli=1.0.9=pypi_0
+brotlipy=0.7.0=py37h27cfd23_1003
+ca-certificates=2022.4.26=h06a4308_0
+certifi=2022.6.15=py37h06a4308_0
+cffi=1.15.0=py37hd667e15_1
+cryptography=37.0.1=py37h9ce1e76_0
+h11=0.13.0=pypi_0
+h2=4.1.0=pypi_0
+hpack=4.0.0=pypi_0
+hyperframe=6.0.1=pypi_0
+idna=3.3=pyhd3eb1b0_0
+kaitaistruct=0.10=pypi_0
+ld_impl_linux-64=2.38=h1181459_1
+libffi=3.3=he6710b0_2
+libgcc-ng=11.2.0=h1234567_1
+libgomp=11.2.0=h1234567_1
+libstdcxx-ng=11.2.0=h1234567_1
+ncurses=6.3=h5eee18b_3
+openssl=1.1.1q=h7f8727e_0
+pip=22.1.2=py37h06a4308_0
+pyasn1=0.4.8=pypi_0
+pycparser=2.21=pyhd3eb1b0_0
+pyopenssl=22.0.0=pyhd3eb1b0_0
+pyparsing=3.0.9=pypi_0
+pysocks=1.7.1=py37_1
+python=3.7.13=h12debd9_0
+readline=8.1.2=h7f8727e_1
+selenium=3.141.0=py37h14c3975_1001
+selenium-wire=4.6.5=pypi_0
+setuptools=61.2.0=py37h06a4308_0
+sqlite=3.38.5=hc218d9a_0
+tk=8.6.12=h1ccaba5_0
+typing-extensions=4.3.0=pypi_0
+urllib3=1.26.9=py37h06a4308_0
+wheel=0.37.1=pyhd3eb1b0_0
+wsproto=1.1.0=pypi_0
+xz=5.2.5=h7f8727e_1
+zlib=1.2.12=h7f8727e_2
+zstandard=0.18.0=pypi_0
